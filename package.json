@@ -1,0 +1,15 @@
+{
+  "name": "cmiyc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmiyc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cmiyc": "^1.0.0"
+  }
+}
